@@ -1,4 +1,4 @@
-# AWS CLI 
+# AWS CLI - CloudShell 
 ## type q to exit when you see scrolling 
 aws --version
 aws ec2 describe-instances
